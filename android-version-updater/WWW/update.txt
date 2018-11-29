@@ -1,6 +1,6 @@
 //要空一格
 
-version_name=2.1.1
+version_name=2.1
 force_update=1
-apk=https://imtt.dd.qq.com/16891/0FA332757820B0B6CCBA57FCCD15B4D6.apk?fsname=com.tencent.mobileqq_7.8.8_942.apk&csr=1bbd
+apk=这里是APK的地址
 info=https://raw.githubusercontent.com/wm55878/data/master/android-version-updater/WWW/banben.txt
