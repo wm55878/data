@@ -1,0 +1,6 @@
+//要空一格
+
+version_name=1.0
+force_update=1
+apk=这里是APK的地址
+info=https://raw.githubusercontent.com/wm55878/data/master/android-version-updater/WWW/banben.txt
