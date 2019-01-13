@@ -23,6 +23,26 @@
         {
             "name": "乐视视频",
             "url": "https://www.le.com/"
+        },
+        {
+            "name": "爱跟影院",
+            "url": "http://v.2gty.com/"
+        },
+        {
+            "name": "微科技电影",
+            "url": "http://video.iliveyy.cn/"
+        },
+        {
+            "name": "80电影",
+            "url": "http://www.80s.la/"
+        },
+        {
+            "name": "捷华影视",
+            "url": "http://www.jiehua.tv/"
+        },
+        {
+            "name": "迷彩兔影视",
+            "url": "https://m.micaitu.com"
         }
     ],
 
@@ -60,8 +80,24 @@
             "url": "http://jx.vgoodapi.com/jx.php?url="
         },
         {
-            "name": "7",
-            "url": "http://qtv.soshane.com/ko.php?url="
+            "name": "（7）",
+            "url": "https://api.pangujiexi.com/player.php?url="
+        },
+        {
+            "name": "8",
+            "url": "http://api.hlglwl.com/jx.php?url="
+        },
+        {
+            "name": "9",
+            "url": "https://api.927.la/vip/?url="
+        },
+        {
+            "name": "10",
+            "url": "https://cdn.yangju.vip/k/?url="
+        },
+        {
+            "name": "11",
+            "url": "http://api.ledboke.com/vip/?url="
         }
     ]
 }
