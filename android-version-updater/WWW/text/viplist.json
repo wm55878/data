@@ -25,6 +25,10 @@
             "url": "https://www.le.com/"
         },
         {
+            "name": "豆瓣电影",
+            "url": "https://movie.douban.com/chart"
+        },
+        {
             "name": "哔哩哔哩",
             "url": "https://www.bilibili.com/"
         },
