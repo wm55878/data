@@ -1,7 +1,7 @@
 ﻿{
     "platformlist": [
         {
-            "name": "爱奇艺",
+            "name": "爱奇艺视频",
             "url": "http://www.iqiyi.com/"
         },
         {
@@ -9,11 +9,11 @@
             "url": "https://v.qq.com/"
         },
         {
-            "name": "芒果",
+            "name": "芒果视频",
             "url": "https://www.mgtv.com/"
         },
         {
-            "name": "优酷",
+            "name": "优酷视频",
             "url": "https://www.youku.com/"
         },
         {
@@ -45,7 +45,7 @@
             "url": "http://video.iliveyy.cn/"
         },
         {
-            "name": "80电影",
+            "name": "80电影影视",
             "url": "http://www.80s.la/"
         },
         {
@@ -57,8 +57,12 @@
             "url": "https://m.micaitu.com"
         },
         {
+            "name": "嘀哩哩影视",
+            "url": "http://www.dlili.tv/"
+        },
+        {
             "name": "电视直播",
-            "url": "http://633tv.com/"
+            "url": "http://www.icantv.cn/"
         }
     ],
 
@@ -92,11 +96,7 @@
             "url": "http://www.85105052.com/admin.php?url="
         },
         {
-            "name": "万能接口5(腾讯好使)",
-            "url": "http://jx.vgoodapi.com/jx.php?url="
-        },
-        {
-            "name": "（7）",
+            "name": "7",
             "url": "https://api.pangujiexi.com/player.php?url="
         },
         {
@@ -113,6 +113,10 @@
         },
         {
             "name": "11",
+            "url": "http://jx.vgoodapi.com/jx.php?url="
+        },
+        {
+            "name": "12",
             "url": "http://api.ledboke.com/vip/?url="
         }
     ]
