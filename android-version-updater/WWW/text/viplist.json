@@ -37,6 +37,10 @@
             "url": "https://www.huya.com/"
         },
         {
+            "name": "雷光影视",
+            "url": "https://www.leiguang.tv/"
+        },
+        {
             "name": "4K影院",
             "url": "http://www.kkkkmao.com/"
         },
@@ -130,6 +134,10 @@
         {
             "name": "解析12",
             "url": "http://api.ledboke.com/vip/?url="
+        },
+        {
+            "name": "解析13",
+            "url": "http://jx.x-99.cn/api.php?id="
         }
     ]
 }
