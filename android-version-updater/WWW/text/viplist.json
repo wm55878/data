@@ -1,6 +1,10 @@
 ﻿{
     "platformlist": [
         {
+            "name": "CBO实时票房榜",
+            "url": "http://www.cbooo.cn/"
+        },
+        {
             "name": "爱奇艺视频",
             "url": "http://www.iqiyi.com/"
         },
@@ -53,10 +57,6 @@
             "url": "https://m.micaitu.com/"
         },
         {
-            "name": "捷华影视",
-            "url": "http://www.jiehua.tv/"
-        },
-        {
             "name": "看看屋影院",
             "url": "https://m.kankanwu.com/"
         },
@@ -71,10 +71,6 @@
         {
             "name": "看看影视",
             "url": "http://www.jukantv.com/"
-        },
-        {
-            "name": "屠夫影视",
-            "url": "http://www.tufutv.net/"
         },
         {
             "name": "好酷影院",
